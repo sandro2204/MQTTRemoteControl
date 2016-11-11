@@ -44,7 +44,7 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text HLabel 4800 3300 0    60   Input ~ 0
+Text HLabel 4400 3150 0    60   Input ~ 0
 HLabel1
 $Comp
 L SW_PUSH_SMALL Btn?

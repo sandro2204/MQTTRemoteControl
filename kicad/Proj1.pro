@@ -1,4 +1,4 @@
-update=10.11.2016 13:00:01
+update=11.11.2016 10:32:33
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,3 +57,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=C:/Users/DEU132653/Documents/private/kicad/kicad-ESP8266-master/ESP8266
+[general]
+version=1
